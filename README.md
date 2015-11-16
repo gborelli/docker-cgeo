@@ -10,7 +10,7 @@ and some demo contents.
 
 You can try the latest Plone Maps version by using this command::
 
-    docker run --name cgeo -p 8080:8080 gborelli/cgeo:latest
+    docker run --name cgeo -p 8080:8080 gborelli/plone-cgeo:latest
 
 and point your browser to::
 
